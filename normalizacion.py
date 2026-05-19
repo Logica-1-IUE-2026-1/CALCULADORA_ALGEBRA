@@ -80,6 +80,7 @@ def normalizar_fila(A):
 
 
 if __name__ == '__main__':
+    exito = True  # bandera para detectar errores
 
     A = [
         [10, 20, 70],
@@ -89,45 +90,51 @@ if __name__ == '__main__':
     ]
 
     print("Matriz original:")
-
     for fila in A:
-
         print(" ", fila)
 
     # escalar_matriz
-
     k = 2
-
-    B = escalar_matriz(A, k)
-
-    print(f"\nescalar_matriz(A, {k}):")
-
-    for fila in B:
-
-        print(" ", fila)
+    try:
+        B = escalar_matriz(A, k)
+        print(f"\nescalar_matriz(A, {k}):")
+        for fila in B:
+            print(" ", fila)
+    except Exception as e:
+        print(f"Error en escalar_matriz: {e}")
+        exito = False
 
     # suma_filas
-
-    sf = suma_filas(A)
-
-    print("\nsuma_filas(A):")
-
-    print(" ", sf)
+    try:
+        sf = suma_filas(A)
+        print("\nsuma_filas(A):")
+        print(" ", sf)
+    except Exception as e:
+        print(f"Error en suma_filas: {e}")
+        exito = False
 
     # suma_columnas
-
-    sc = suma_columnas(A)
-
-    print("\nsuma_columnas(A):")
-
-    print(" ", sc)
+    try:
+        sc = suma_columnas(A)
+        print("\nsuma_columnas(A):")
+        print(" ", sc)
+    except Exception as e:
+        print(f"Error en suma_columnas: {e}")
+        exito = False
 
     # normalizar_fila
+    try:
+        N = normalizar_fila(A)
+        print("\nnormalizar_fila(A):")
+        for fila in N:
+            print(" ", [round(x, 4) for x in fila])
+    except Exception as e:
+        print(f"Error en normalizar_fila: {e}")
+        exito = False
 
-    N = normalizar_fila(A)
-
-    print("\nnormalizar_fila(A):")
-
-    for fila in N:
-
-        print(" ", [round(x, 4) for x in fila])
+    # Resultado final
+    print()
+    if exito:
+        print("Resultado de la ejecución es exitoso")
+    else:
+        print("Resultado de la ejecución es fallido")
