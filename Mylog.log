@@ -1,0 +1,78 @@
+2026-05-19 19:49:21 - INFO - Programa iniciado
+2026-05-19 19:49:23 - INFO - Opcion seleccionada: 6
+2026-05-19 19:49:23 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:34 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:34 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:35 - INFO - Opcion seleccionada: }f
+2026-05-19 19:49:35 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:35 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:35 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:35 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:35 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:35 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:35 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:36 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:36 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:36 - INFO - Opcion seleccionada: f
+2026-05-19 19:49:36 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:49:38 - INFO - Opcion seleccionada: 1
+2026-05-19 19:49:44 - INFO - Ingresando matriz A
+2026-05-19 19:49:52 - INFO - Matriz A ingresada correctamente
+2026-05-19 19:49:52 - INFO - Ingresando matriz B
+2026-05-19 19:49:58 - ERROR - El usuario ingreso un valor no numerico
+2026-05-19 19:49:58 - CRITICAL - Error inesperado: list index out of range
+2026-05-19 19:52:39 - INFO - Opcion seleccionada: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Documents/GitHub/CALCULADORA_ALGEBRA/main.py
+2026-05-19 19:52:39 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:52:41 - INFO - Opcion seleccionada: C:\Users\Sebastian\AppData\Local\Programs\Python\Python313\python.exe c:/Users/Sebastian/Documents/GitHub/CALCULADORA_ALGEBRA/main.py
+2026-05-19 19:52:41 - WARNING - El usuario ingreso una opcion invalida
+2026-05-19 19:52:45 - INFO - Programa iniciado
+2026-05-19 19:52:47 - INFO - Opcion seleccionada: 1
+2026-05-19 19:52:53 - INFO - Ingresando matriz A
+2026-05-19 19:53:01 - INFO - Matriz A ingresada correctamente
+2026-05-19 19:53:01 - INFO - Ingresando matriz B
+2026-05-19 19:53:08 - INFO - Matriz B ingresada correctamente
+2026-05-19 19:53:08 - INFO - Operacion suma/resta completada
+2026-05-19 19:53:36 - INFO - Opcion seleccionada: 2
+2026-05-19 19:53:39 - INFO - Ingresando matriz A
+2026-05-19 19:53:42 - INFO - Matriz A ingresada correctamente
+2026-05-19 19:53:42 - INFO - Calculando la transpuesta de una matriz de 2x2...
+2026-05-19 19:53:42 - INFO - Evaluando es_cuadrada: Dimensiones 2x2 -> True
+2026-05-19 19:53:42 - INFO - Iniciando validación de simetría...
+2026-05-19 19:53:42 - INFO - Evaluando es_cuadrada: Dimensiones 2x2 -> True
+2026-05-19 19:53:42 - INFO - Calculando la transpuesta de una matriz de 2x2...
+2026-05-19 19:53:42 - WARNING - La validación falló: La matriz no es cuadrada o no coincide con su transpuesta.
+2026-05-19 19:53:42 - INFO - Operacion transpuesta completada
+2026-05-19 19:53:43 - INFO - Opcion seleccionada: 8
+2026-05-19 19:53:43 - WARNING - Opcion invalida ingresada
+2026-05-19 19:53:43 - INFO - Opcion seleccionada: 9
+2026-05-19 19:53:43 - WARNING - Opcion invalida ingresada
+2026-05-19 19:53:44 - INFO - Opcion seleccionada: 4
+2026-05-19 19:55:12 - ERROR - El usuario ingreso un entero invalido
+2026-05-19 19:55:18 - INFO - Ingresando matriz A
+2026-05-19 19:55:24 - INFO - Programa iniciado
+2026-05-19 19:55:25 - INFO - Opcion seleccionada: j
+2026-05-19 19:55:25 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:26 - INFO - Opcion seleccionada: k
+2026-05-19 19:55:26 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:27 - INFO - Opcion seleccionada: w
+2026-05-19 19:55:27 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:27 - INFO - Opcion seleccionada: r
+2026-05-19 19:55:27 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:28 - INFO - Opcion seleccionada: d
+2026-05-19 19:55:28 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:28 - INFO - Opcion seleccionada: 
+2026-05-19 19:55:28 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:28 - INFO - Opcion seleccionada: a
+2026-05-19 19:55:28 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:28 - INFO - Opcion seleccionada: as
+2026-05-19 19:55:28 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:29 - INFO - Opcion seleccionada: as
+2026-05-19 19:55:29 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:29 - INFO - Opcion seleccionada: as
+2026-05-19 19:55:29 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:29 - INFO - Opcion seleccionada: 
+2026-05-19 19:55:29 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:29 - INFO - Opcion seleccionada: s
+2026-05-19 19:55:29 - WARNING - Opcion invalida ingresada
+2026-05-19 19:55:29 - INFO - Opcion seleccionada: s
+2026-05-19 19:55:29 - WARNING - Opcion invalida ingresada
